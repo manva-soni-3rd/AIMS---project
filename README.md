@@ -8,3 +8,4 @@
 
 - Times Square image
 - https://idsb.tmgrup.com.tr/ly/uploads/images/2024/04/09/thumbs/800x531/323101.jpg
+- the video displays cases different cases of detection and how a more accurate query can lead to a better detection. (coca cola) and other things. 
